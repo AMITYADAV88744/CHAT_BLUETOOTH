@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CHAT_BLUE/app/src/main/res/drawable/ic_baseline_bluetooth_24.xml" value="0.1390625" />
         <entry key="..\:/CHAT_BLUE/app/src/main/res/layout/activity_device_list.xml" value="0.1" />
         <entry key="..\:/CHAT_BLUE/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/CHAT_BLUE/app/src/main/res/layout/chat_item_green.xml" value="0.1" />
